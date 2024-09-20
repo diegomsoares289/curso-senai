@@ -13,5 +13,5 @@ if (soma>=7){
 else{
     alert(`voce esta reprovado" ${soma.toFixed(2)})
 }
-console.log('codigo novo')
+console.log('codigo novo'
 
